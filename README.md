@@ -1,5 +1,8 @@
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DeathHound6&count_private=true&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=DeathHound6&count_private=true&show_icons=true&theme=dark">
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathHound6&show_icons=true&theme=dark">
 </p>
 
 <h2 align="center">My Experiences</h2>
@@ -15,11 +18,10 @@
     <img src="https://img.shields.io/badge/Markdown-%23404d59.svg?style=for-the-badge&logo=markdown&logoColor=%#000000"/>
     <img src="https://img.shields.io/badge/typescript-%23404d59.svg?style=for-the-badge&logo=typescript&logoColor=%#3178C6"/>
     <img src="https://img.shields.io/badge/golang-%23404d59.svg?style=for-the-badge&logo=go&logoColor=%#00ADD8"/>
-    <img src="https://img.shields.io/badge/godot%20engine-%23404d59.svg?style=for-the-badge&logo=godot-engine&logoColor=%#478CBF"/>
     <img src="https://img.shields.io/badge/C%20Sharp-%23404d59.svg?style=for-the-badge&logo=csharp&logoColor=%#239120"/>
+    <img src="https://img.shields.io/badge/.NET-%23404d59.svg?style=for-the-badge&logo=dotnet&logoColor=%#239120"/>
     <img src="https://img.shields.io/badge/Bash-%23404d59.svg?style=for-the-badge&logo=gnubash&logoColor=%#4EAA25"/>
     <img src="https://img.shields.io/badge/Windows%20Powershell-%23404d59.svg?style=for-the-badge&logo=powershell&logoColor=%#5391FE"/>
-    <img src="https://img.shields.io/badge/Windows%20Command%20Prompt-%23404d59.svg?style=for-the-badge&logo=windowsterminal&logoColor=%#4D4D4D"/>
 </p>
 <h3 align="center">OSes, Databases, APIs, Webservers and Libraries</h3>
 <p align="center">
@@ -39,14 +41,12 @@
     <img src="https://img.shields.io/badge/Windows-%23404d59?style=for-the-badge&logo=windows&logoColor=%#0078D6"/>
     <img src="https://img.shields.io/badge/Ubuntu-%23404d59?style=for-the-badge&logo=ubuntu&logoColor=%#E95420"/>
     <img src="https://img.shields.io/badge/Raspbian-%23404d59?style=for-the-badge&logo=raspberrypi&logoColor=%#A22846"/>
-    <img src="https://img.shields.io/badge/Debian-%23404d59?style=for-the-badge&logo=debian&logoColor=%#A81D33"/>
     <img src="https://img.shields.io/badge/Android-%23404d59?style=for-the-badge&logo=android&logoColor=%#3DDC84"/>
     <img src="https://img.shields.io/badge/VMWare-%23404d59.svg?style=for-the-badge&logo=vmware&logoColor=%#607078"/>
     <img src="https://img.shields.io/badge/Discord%20API-%23404d59?style=for-the-badge&logo=Discord&logoColor=%#5865F2"/>
     <img src="https://img.shields.io/badge/Pastebin%20API-%23404d59.svg?style=for-the-badge&logo=pastebin&logoColor=%#02456C"/>
     <img src="https://img.shields.io/badge/Cloudflare%20API-%23404d59.svg?style=for-the-badge&logo=cloudflare&logoColor=%#F38020"/>
     <img src="https://img.shields.io/badge/Docker%20API-%23404d59.svg?style=for-the-badge&logo=docker&logoColor=%#2496ED"/>
-    <img src="https://img.shields.io/badge/PayPal%20API-%23404d59.svg?style=for-the-badge&logo=paypal&logoColor=%#00457C"/>
     <img src="https://img.shields.io/badge/Lets%20Encrypt-%23404d59.svg?style=for-the-badge&logo=letsencrypt&logoColor=%#003A70"/>
     <img src="https://img.shields.io/badge/NGINX-%23404d59.svg?style=for-the-badge&logo=nginx&logoColor=%#009639"/>
     <img src="https://img.shields.io/badge/Postman-%23404d59.svg?style=for-the-badge&logo=postman&logoColor=%#FF6C37"/>
@@ -56,6 +56,8 @@
     <img src="https://img.shields.io/badge/Nano-%23404d59.svg?style=for-the-badge&logo=nano&logoColor=%#4A90E2"/>
     <img src="https://img.shields.io/badge/Notepad++-%23404d59.svg?style=for-the-badge&logo=notepadplusplus&logoColor=%#90E59A"/>
     <img src="https://img.shields.io/badge/Pycharm-%23404d59.svg?style=for-the-badge&logo=pycharm&logoColor=%#000000"/>
+    <img src="https://img.shields.io/badge/GoLand-%23404d59.svg?style=for-the-badge&logo=goland&logoColor=%#007ACC"/>
+    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23404d59.svg?style=for-the-badge&logo=intellijidea&logoColor=%#007ACC"/>
     <img src="https://img.shields.io/badge/MS%20Visual%20Studio-%23404d59.svg?style=for-the-badge&logo=visualstudio&logoColor=%#5C2D91"/>
     <img src="https://img.shields.io/badge/MS%20Visual%20Studio%20Code-%23404d59.svg?style=for-the-badge&logo=visualstudiocode&logoColor=%#007ACC"/>
 </p>
