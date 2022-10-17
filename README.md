@@ -2,7 +2,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=DeathHound6&count_private=true&show_icons=true&theme=dark">
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathHound6&show_icons=true&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathHound6&show_icons=true&theme=dark&langs_count=10&layout=compact&custom_title=Top%20Languages">
 </p>
 
 <h2 align="center">My Experiences</h2>
