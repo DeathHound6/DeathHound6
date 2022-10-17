@@ -67,11 +67,8 @@
     <a href="https://discord.gg/ETXkNpcaNR" alt="DeathHound Dev Discord Server">
         <img src="https://img.shields.io/discord/772192992807092275?label=Discord&logo=Discord&style=for-the-badge">
     </a>
-    <a href="https://www.reddit.com/user/Unique-Username6969">
-        <img src="https://img.shields.io/reddit/user-karma/combined/Unique-Username6969?logo=reddit&style=for-the-badge">
-    </a>
-    <a href="https://steamcommunity.com/id/Purpose-Devoid">
-        <img src="https://img.shields.io/badge/Steam-%23323330.svg?style=for-the-badge&logo=steam&logoColor=%#000000"/>
+    <a href="mailto:acraig176@hotmail.com" alt="Email Me">
+        <img src="https://img.shields.io/badge/Email-%23404d59.svg?style=for-the-badge&logo=gmail&logoColor=%#000000"/>
     </a>
 </p>
 
